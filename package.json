@@ -1,0 +1,26 @@
+{
+  "name": "api_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sun2303/herokuAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sun2303/herokuAPI/issues"
+  },
+  "homepage": "https://github.com/Sun2303/herokuAPI#readme",
+  "devDependencies": {
+    "cypress": "^13.8.1"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
